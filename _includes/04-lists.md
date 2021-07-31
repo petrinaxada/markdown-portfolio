@@ -1,0 +1,4 @@
+- [ ] MY KIDDOS
+- [ ] MY BF ... SOMETIMES 
+- [ ] WEB DESIGN 
+- [ ] HTML/CSS
