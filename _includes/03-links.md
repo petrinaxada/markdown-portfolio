@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+# CHECK OUT MY WORK
+[GITHUB PROFILE](https://github.com/petrinaxada)
+[PORTFOLIUM PROFILE](https://portfolium.com/petrinaada)
