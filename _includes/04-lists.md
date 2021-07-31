@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- [ ] MY KIDDOS
+- [ ] MY BF ... SOMETIMES 
+- [ ] WEB DESIGN 
+- [ ] HTML/CSS
